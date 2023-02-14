@@ -1,4 +1,4 @@
-About me
+## About me
 
 
 Web full stack developer - Front-end developers
@@ -32,5 +32,6 @@ Experiencia en desarrollo web full stack usando tecnologias para desarrollo como
  ## Contact
  
  rapuentes@uan.edu.co
+ <br/>
  https://www.linkedin.com/in/esteban-puentes-183600192/
  
