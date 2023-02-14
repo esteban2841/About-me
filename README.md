@@ -1,18 +1,14 @@
 ## About me
 
 
-Web full stack developer - Front-end developers
+Desarrollador web de pila completa -- Bootcamp (HENRY)
 
+Experiencia integrando equipos basados en tecnologías ágiles de planificación 
+--- (SCRUM) Ingeniero Industrial -- 
+Universidad Antonio Nariño
+Experiencia en desarrollo web full stack usando tecnologías de desarrollo como React, Redux, PostgreSQL, CSS, Javascript, Node.js (express), pruebas e2e usando cypress y cucumber, integraciones como soluciones de pago (mercadolibre), análisis de datos usando chart.js, a través de tecnologías ágiles como SCRUM, integración de equipos y liderazgo y experiencia construyendo y desplegando apps desde cero, manejo de Github para el desarrollo de proyectos grupales con flujo de trabajo por sucursales con experiencia en integración de información y consolidación de tareas.
 
-Experiencia integrando equipos con base en tecnologias agiles de planeacion--- (SCRUM )
-
-
-Ingeniero Industrial -- Universidad antonio nariño
-
-
-Experiencia en desarrollo web full stack usando tecnologias para desarrollo como React, Redux, PostgreSQL, CSS, Javascript, Node.js (express), testing e2e utilizando cypress y cucumber, consumo y manejo de API, a travès de tecnologias agiles como SCRUM , integracion de equipos y liderazgo, manejo de Github para el desarrollo de proyectos grupales con workflow por ramas con experiencia en integracion de la informacion y consolidacion de tareas.
-
- Capacidad para realizar analisis y troubleshooting en busqueda de causa raìz de los incidentes.
+Capacidad para realizar análisis y solución de problemas en busca de la causa raíz de los incidentes.
  
  ## Languages and Tools  
 <div align="center">  
